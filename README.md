@@ -1,4 +1,5 @@
 # exploradorWeb
+windows servercore 2022
 docker container
 
 docker build . -t explorerWeb
