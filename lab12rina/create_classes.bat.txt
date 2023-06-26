@@ -1,0 +1,1 @@
+javac -classpath libs/http-20070405.jar;libs/gson-2.2.4.jar -d bin  @classes_list.txt
